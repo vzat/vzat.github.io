@@ -1,0 +1,29 @@
+.badge-nodejs {
+    background-color: #215732;
+    color: white;
+}
+
+.badge-react {
+    background-color: #00d8ff;
+    color: white;
+}
+
+.badge-graphql {
+    background-color: #e10098;
+    color: white;
+}
+
+.badge-docker {
+    background-color: #0db7ed;
+    color: white;
+}
+
+.badge-sfml {
+    background-color: #8ece3e;
+    color: white;
+}
+
+.badge-android {
+    background-color: #a4c639;
+    color: white;
+}
