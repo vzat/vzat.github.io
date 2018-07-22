@@ -1,3 +1,15 @@
+.row-bottom {
+    margin-bottom: 50px;
+}
+
+.card-width {
+    width: 20rem;
+}
+
+.card-bottom {
+    margin-bottom: 50px;
+}
+
 .badge-nodejs {
     background-color: #215732;
     color: white;
@@ -25,5 +37,25 @@
 
 .badge-android {
     background-color: #a4c639;
+    color: white;
+}
+
+.badge-opencv {
+    background-color: #ff0101;
+    color: white;
+}
+
+.badge-processing {
+    background-color: #173b5f;
+    color: white;
+}
+
+.badge-unity {
+    background-color: #222c37;
+    color: white;
+}
+
+.badge-scikit {
+    background-color: #f89939;
     color: white;
 }
